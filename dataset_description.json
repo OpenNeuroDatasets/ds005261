@@ -10,8 +10,9 @@
         "Jean-Michel Badier"
     ],
     "Acknowledgements": "MEG data acquisition was performed in the MEG Centre (Timone Hospital, Marseille, France)",
-
-    "Funding": ["This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02)"],
+    "Funding": [
+        "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02)"
+    ],
     "ReferencesAndLinks": [
         "a data paper",
         "a resource to be cited when using the data"
