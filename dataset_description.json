@@ -19,7 +19,7 @@
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
     "GeneratedBy": "MEG data acquisition was performed in the MEG Centre (Timone Hospital, Marseille, France)",
-    "SourceDatasets": { "DOI": "10.18112", "URL": "doi:10.18112/openneuro.ds005261.v1.0.0", "Version": v1.0.0}
+    "SourceDatasets":[ "10.18112", "doi:10.18112/openneuro.ds005261.v1.0.0", "v1.0.0"]
 }
 
 
