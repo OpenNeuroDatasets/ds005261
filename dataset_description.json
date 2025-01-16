@@ -10,12 +10,13 @@
         "Jean-Michel Badier"
     ],
     "Acknowledgements": "MEG data acquisition was performed in the MEG Centre (Timone Hospital, Marseille, France)",
-    "Funding": [
-        "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02)"
-    ],
+
+    "Funding": ["This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02)"],
     "ReferencesAndLinks": [
         "a data paper",
         "a resource to be cited when using the data"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005261.v1.0.0"
+    "Current dataset: OpenNeuro MEG Dataset ds005261": "Gloups_MEG, https://openneuro.org/datasets/ds005261/versions/1.0.0",
+    "Related dataset: OpenNeuro fMRI Dataset ds004597": "Gloups, https://openneuro.org/datasets/ds004597/versions/2.0.0",
+    "Note": "Participant identifiers differ between the fMRI and MEG datasets. For details, refer to Table 1 in Todorović et al., in revision"
 }
