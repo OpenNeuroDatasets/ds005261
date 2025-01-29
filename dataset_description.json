@@ -18,8 +18,28 @@
         "a resource to be cited when using the data"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
-    "GeneratedBy": "MEG Centre (Timone Hospital, Marseille, France)",
-    "SourceDatasets" : {"URL": "https://openneuro.org/datasets/ds005261","DOI":"doi:10.18112/openneuro.ds005261.v1.0.0", "Version":"v1.0.0"}
+    "GeneratedBy": [
+    {
+      "Name": "mne_bids",
+      "Version": "0.14",
+      "Container": {
+        "Type": "",
+        "Tag": ""
+        }
+    },
+    {
+      "Name": "Manual",
+      "Description": "Re-added RepetitionTime metadata to bold.json files"
+    }
+  ],,
+    
+    "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
+      "URL": "https://openneuro.org/datasets/ds005261",
+      "Version": "1.0.0"
+    }
+  ]
  
 }
 
