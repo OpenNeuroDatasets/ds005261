@@ -83,5 +83,13 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "ROW",
     "ConversionSoftware": "dcm2niix",
-    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1900"
+    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1900",
+    "GradientSetType": "T1w_General",
+    "MRTransmitCoilSequence": [
+        "HEAD",
+        "NECK"
+    ],
+    "MultibandAccelerationFactor": 2,
+    "GzipModificationTime": 1686344856,
+    "GzipOriginalFilename": "sub-04_T1w.nii"
 }
