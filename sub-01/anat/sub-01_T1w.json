@@ -83,6 +83,26 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "ROW",
     "ConversionSoftware": "dcm2niix",
-    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1900"
+    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1900",
+    "GzipModificationTime": 1686344856,
+    "GzipOriginalFilename": "sub-04_T1w.nii",
+    "GradientSetType": "T1w_General",
+    "MRTransmitCoilSequence": [
+        "HEAD"
+    ],
+    "MatrixCoilMode": "SENSE",
+    "CoilCombinationMethod": "AdaptiveCombine",
+    "PulseSequenceType": "MPRAGE",
+    "MTState": false,
+    "SpoilingState": "RF",
+    "NumberShots": 1,
+    "ParallelReductionFactorInPlane": 2,
+    "ParallelReductionFactorOutOfPlane": 1,
+    "ParallelAcquisitionTechnique": "GRAPPA",
+    "PartialFourierDirection": "AP",
+    "EffectiveEchoSpacing": 0.0005,
+    "MixingTime": 0.03,
+    "PhaseEncodingDirection": "j-",
+    "TotalReadoutTime": 0.032,
+    "MultibandAccelerationFactor": 2
 }
-
