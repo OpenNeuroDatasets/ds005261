@@ -20,19 +20,11 @@
     "DatasetDOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
     "GeneratedBy": [
     {
-      "Name": "mne_bids",
+      "Name": "MNE-BIDS",
       "Version": "0.14",
-      "Container": {
-        "Type": "",
-        "Tag": ""
-        }
-    },
-    {
-      "Name": "Manual",
-      "Description": "Re-added RepetitionTime metadata to bold.json files"
+      "Description": "MNE-BIDS is a Python package that allows you to read and write BIDS-compatible datasets with the help of MNE-Python."
     }
-  ],,
-    
+    ],   
     "SourceDatasets": [
     {
       "DOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
