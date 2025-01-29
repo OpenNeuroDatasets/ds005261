@@ -88,7 +88,8 @@
     "GzipOriginalFilename": "sub-04_T1w.nii",
     "GradientSetType": "T1w_General",
     "MRTransmitCoilSequence": [
-        "HEAD"
+        "HEAD",
+        "NECK"
     ],
     "MatrixCoilMode": "SENSE",
     "CoilCombinationMethod": "AdaptiveCombine",
