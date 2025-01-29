@@ -83,11 +83,5 @@
     ],
     "InPlanePhaseEncodingDirectionDICOM": "ROW",
     "ConversionSoftware": "dcm2niix",
-    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1900",
-    "GradientSetType": "T1w_General",
-    "MRTransmitCoilSequence": [
-        "HEAD",
-        "NECK"
-    ],
-    "MultibandAccelerationFactor": 2
+    "ConversionSoftwareVersion": "v1.0.20190410  (JP2:OpenJPEG) (JP-LS:CharLS) MSC1900"
 }
