@@ -89,7 +89,5 @@
         "HEAD",
         "NECK"
     ],
-    "MultibandAccelerationFactor": 2,
-    "GzipModificationTime": 1686344856,
-    "GzipOriginalFilename": "sub-04_T1w.nii"
+    "MultibandAccelerationFactor": 2
 }
