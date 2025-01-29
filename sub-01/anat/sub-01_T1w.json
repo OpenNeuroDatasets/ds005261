@@ -104,5 +104,21 @@
     "MixingTime": 0.03,
     "PhaseEncodingDirection": "j-",
     "TotalReadoutTime": 0.032,
-    "MultibandAccelerationFactor": 2
+    "MultibandAccelerationFactor": 2,
+    "MRIHardware": {
+        "Manufacturer": "Siemens",
+        "Model": "Prisma",
+        "FieldStrength": 3,
+        "Coils": [
+            "HEAD",
+            "Neck"
+        ]
+    },
+    "MRISequenceSpecifics": {
+        "SequenceName": "MPRAGE",
+        "RepetitionTime": 2.3,
+        "EchoTime": 0.002,
+        "InversionTime": 0.995,
+        "NumberOfSlices": 160
+    }
 }
