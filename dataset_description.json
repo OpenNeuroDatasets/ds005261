@@ -17,7 +17,7 @@
         "a data paper",
         "a resource to be cited when using the data"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005261.v2.0.0",
     "GeneratedBy": [
     {
       "Name": "MNE-BIDS",
@@ -27,9 +27,9 @@
     ],   
     "SourceDatasets": [
     {
-      "DOI": "doi:10.18112/openneuro.ds005261.v1.0.0",
+      "DOI": "doi:10.18112/openneuro.ds005261.v2.0.0",
       "URL": "https://openneuro.org/datasets/ds005261",
-      "Version": "1.0.0"
+      "Version": "2.0.0"
     }
   ]
  
