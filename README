@@ -3,7 +3,7 @@ README
 
 Seventeen adult participants completed a learning task and a resting-state condition during MEG recording (4D NeuroImaging system with 248 magnetometer channels).
 
-Current dataset: OpenNeuro MEG Dataset ds005261 (Gloups_MEG, https://openneuro.org/datasets/ds005261/versions/1.0.0; see Todorović et al., in revision).
+Current dataset: OpenNeuro MEG Dataset ds005261 (Gloups_MEG, https://openneuro.org/datasets/ds005261/versions/2.0.0; see Todorović et al., in revision).
 
 
 The same participants performed an identical learning task during fMRI scanning.
