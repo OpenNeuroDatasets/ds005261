@@ -19,22 +19,17 @@
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds005261.v2.0.0",
     "GeneratedBy": [
-    {
-      "Name": "MNE-BIDS",
-      "Version": "0.14",
-      "Description": "MNE-BIDS is a Python package that allows you to read and write BIDS-compatible datasets with the help of MNE-Python."
-    }
-    ],   
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.14",
+            "Description": "MNE-BIDS is a Python package that allows you to read and write BIDS-compatible datasets with the help of MNE-Python."
+        }
+    ],
     "SourceDatasets": [
-    {
-      "DOI": "doi:10.18112/openneuro.ds005261.v2.0.0",
-      "URL": "https://openneuro.org/datasets/ds005261",
-      "Version": "2.0.0"
-    }
-  ]
- 
+        {
+            "DOI": "doi:10.18112/openneuro.ds005261.v2.0.0",
+            "URL": "https://openneuro.org/datasets/ds005261",
+            "Version": "2.0.0"
+        }
+    ]
 }
-
-
-
-
